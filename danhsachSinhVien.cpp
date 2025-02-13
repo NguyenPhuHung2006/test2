@@ -9,6 +9,11 @@
 #include <cmath>
 using namespace std;
 
+
+// test
+
+
+
 struct DayofBirth
 {
 	int day;
